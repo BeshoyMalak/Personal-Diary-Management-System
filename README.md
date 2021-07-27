@@ -1,2 +1,22 @@
 # Personal-Diary-Management-System
 It's a personal diary management system that helps you to write your notes securely and separately from each other, also it allows multiusers 
+
+PASSWORD FOR THE PROGRAM :-
+
+Password : pass
+
+
+REMEMBER: AFTER CHANGING THE PASSWORD FROM THE SYSTEM, IT ONLY CHANGES THE DIARY PASSWORD!
+WHICH MEANS LOGIN'S PASSWORD AND THE DIARY PASSWORD SYSTEM ARE DIFFERENT.
+
+AND IF YOU WISH TO CHANGE YOUR PASSWORD:
+THEN, OPEN SOURCE FILE AND SEARCH FOR :- int login()
+CHANGE password AND DONT FORGET TO SAVE & COMPILE IT AFTER EDITING.
+
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
+s-beshoy_malak@zewailcity.edu.eg
+
+***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
+
+
+THANK YOU FOR DOWNLOADING :) 
